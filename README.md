@@ -1,4 +1,4 @@
- ![Real-time chart](chart.png)
+ ![Real-time chart](https://github.com/chilang/tail-chart/raw/master/chart.png)
 
  Usage:
      

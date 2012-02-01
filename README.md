@@ -1,4 +1,4 @@
- ![Real-time chart](/chart.png)
+ ![Real-time chart](chart.png)
 
  Usage:
      
